@@ -4,17 +4,20 @@
     width: 100px;
     height: 100px;
 }
-.black {
+#black {
     background-color: black;
 }
-.yellow {
+#yellow {
     background-color: yellow;
 }
-.red {
+#red {
     background-color: red;
 }
-.green {
+#green {
     background-color: green;
+}
+#pixel-board{
+    max-width: 250px;
 }
 .pixel {
     background-color: white;
